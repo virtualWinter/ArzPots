@@ -1,2 +1,2 @@
 # ArzPots
-Improve the Potion in your server (PotPvP - FullPvP)
+Improve the Potion in your server (PotPvP)
