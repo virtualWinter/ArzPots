@@ -1,0 +1,32 @@
+####################################
+# Góp ý và hỗ trợ qua Discord nhé! #
+####################################
+
+#Authors: Arzore#2317
+#Config Vesion: 1.0-SNAPSHOT
+
+MESSAGES:
+  RELOAD: "&aArzorePots đã được tải lại!"
+  POTION:
+   SPEED-UPDATED: "&fGiá trị &a"Speed"&f của Pot đã được chỉnh thành &b<value>!"
+   OFFSET-UPDATED: "&fGiá trị &a"offset"&f của Pot đã được chỉnh thành &b<value>!"
+  HELP-MESSAGES:
+    POTION:
+    - " "
+    - "&b&lAll ArzorePots Commands"
+    - " "
+    - "&b/pot setoffset  &7- &fĐể chỉnh giá trị offset của pot"
+    - "&b/pot setspeed &7- &fĐể chỉnh speed của pot"
+    - "&b/pot values  &7- &fXem giá trị của Offset và Speed"
+    - " "
+    - "&7&oHãy tự tạo Pot theo cách của riêng bạn"
+    - "&7&oPlugin được tạo để hỗ trợ cho các bạn"
+    - "&7&oĐang mở server PvP như FullPvP, Practice"
+    - " "
+    VALUES-MESSAGE:
+      - "&7&m----------------------------"
+      - "&b&lGiá Trị Của Pot"
+      - " "
+      - "&fOffset: &b<offset>"
+      - "&fSpeed: &b<speed>"
+      - "&7&m----------------------------"
