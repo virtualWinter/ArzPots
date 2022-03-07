@@ -25,7 +25,7 @@ public class DataFile extends YamlConfiguration {
 
     public DataFile() {
         this.plugin = this.main();
-        this.configFile = new File(this.plugin.getDataFolder(), "value.yml");
+        this.configFile = new File(this.plugin.getDataFolder(), "data.yml");
         this.saveDefault();
         this.reload();
     }
